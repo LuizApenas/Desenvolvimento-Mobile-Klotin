@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="CalculatorButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <drawable name="rounded_button">
+        <shape android:shape="rectangle">
+            <solid android:color="#333333"/>
+            <corners android:radius="12dp"/>
+        </shape>
+    </drawable>
+</resources>
