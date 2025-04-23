@@ -4,11 +4,6 @@ Este repositório reúne quatro projetos desenvolvidos em Kotlin para Android co
 
 ---
 
-## 📂 Estrutura do repositório
-
-
----
-
 ## 🚀 Tecnologias utilizadas
 
 - **Kotlin**
